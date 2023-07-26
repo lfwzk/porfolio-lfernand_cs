@@ -24,7 +24,9 @@ export default {
 				textColor: "var(--theme-text)",
 				link: "var(--theme-link)",
 				accent: "var(--theme-accent)",
+				green: "var(--theme-green)",
 				"accent-2": "var(--theme-accent-2)",
+				
 			},
 			fontFamily: {
 				// Add any custom fonts here

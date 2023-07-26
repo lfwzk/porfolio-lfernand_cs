@@ -1,15 +1,23 @@
 export const MENU_LINKS = [
 	{
-		title: "Home",
+		title: "🏠",
 		path: "/",
 	},
 	{
-		title: "About",
+		title: "About ",
 		path: "/about/",
 	},
 	{
-		title: "Blog",
+		title: "Articles",
 		path: "/posts/",
+	},
+	{
+		title: "Courses",
+		path: "/courses/",
+	},
+	{
+		title: "Conferences",
+		path: "/Conferences/",
 	},
 ];
 
